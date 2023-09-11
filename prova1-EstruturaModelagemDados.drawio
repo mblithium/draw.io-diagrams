@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-09-11T14:29:54.975Z" agent="Mozilla/5.0 (Windows NT 11.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5750.196 Safari/537.36 Edg/111.0.1644.50" etag="YkGXek3azjZpP9jsIO2n" version="21.7.4" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="263" dy="154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-1" value="pré-requisito" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-2" value="Disciplina" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-4" value="Tem" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-5" value="Curso" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="100" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-6" value="Inscrito" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="290" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-7" value="Aluno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="520" y="410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-8" value="Possui" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="340" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-9" value="Departamento" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="610" y="180" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-12" value="(0, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="105" y="138" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hU8Ev3x3Z6jvMKi0dZwd-13" value="(0, N)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="138" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
